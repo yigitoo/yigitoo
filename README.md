@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Rawns665
+- ✨ My name is "Yiğit, Yiğit GÜMÜŞ".
 - 👀 I’m interested in Python.
 - 🌱 I’m currently learning WebDev!
 - 💞️ I’m looking to collaborate on Google.
