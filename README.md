@@ -2,7 +2,9 @@
 - 👀 I’m interested in Python.
 - 🌱 I’m currently learning WebDev!
 - 💞️ I’m looking to collaborate on Google.
-- 📫 How to reach me yigit_gumus<rawns0909@gmail.com>
+- 📫 How to reach me ig:yigit_gumus.09|<rawns0909@gmail.com>
+
+ 
 
 <!---
 Rawns665/Rawns665 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
