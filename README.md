@@ -3,7 +3,7 @@
 - 👀 I’m interested in Python.
 - 🌱 I’m currently learning WebDev!
 - 💞️ I’m looking to collaborate on Google.
-- 📫 How to reach me ig:yigit_gumus.09 | Yiğit GÜMÜŞ<rawns0909@gmail.com>
+- 📫 How to reach me ig:yigit_gumus.09 | Yiğit GÜMÜŞ: rawns0909@gmail.com>
 
  
 
