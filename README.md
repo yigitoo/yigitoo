@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on Google.
 - 📫 How to reach me ig:yigit_gumus.09 | Yiğit GÜMÜŞ: rawns0909@gmail.com>
 
-![Profile Views](https://komarev.com/ghpvc/?username=mustafamuratcoskun)
+![Profile Views](https://komarev.com/ghpvc/?username=Rawns665)
 
 ![Yigit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rawns665&show_icons=true)
 
