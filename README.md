@@ -23,7 +23,7 @@ Like which projects i made to get right to attend Tübitak-2204A (researching an
 You can find and get touch with me via Linkedin and Instagram!
 
 [![Instagram Badge](https://img.shields.io/badge/yigitgumus-follow%20on%20instagram-blue?style=for-the-badge&logo=instagram)](https://instagram.com/yigit_gumus.09/)
-[![Instagram Badge](https://img.shields.io/badge/yigitgumus-follow%20on%20twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/yigitgumus09/)
+[![Twitter Badge](https://img.shields.io/badge/yigitgumus-follow%20on%20twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/yigitgumus09/)
 
 
 <!---
