@@ -36,11 +36,7 @@ Like which projects i made to get right to attend Tübitak-2204A (researching an
 
 ## Contact Me 📫
 
-You can find and get touch with me via Linkedin and Instagram!
-
-[![Instagram Badge](https://img.shields.io/badge/yigitgumus-follow%20on%20instagram-blue?style=for-the-badge&logo=instagram)](https://instagram.com/yigitgumus09/)
-[![Twitter Badge](https://img.shields.io/badge/yigitgumus-follow%20on%20twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/yigitgumus09/)
-
+You can find and get touch with me via Twitter or Instagram!
 <p>
 <h3 align="center">Contact with me: </h3>
 <p align="center">
