@@ -17,9 +17,10 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomz0f&layout=compact&theme=merko&hide=c,html,emacs%20lisp,nix"></img>
 </p>
 
+
 <p align="center">
-    <a href="https://spotify-github-profile.vercel.app/api/view?uid=1htv4ev9rz8ll0n9lpb29jqoo&amp;redirect=true"><img
-            src="https://spotify-github-profile.vercel.app/api/view?uid=1htv4ev9rz8ll0n9lpb29jqoo&amp;cover_image=true&amp;theme=default&amp;bar_color=53b14f&amp;bar_color_cover=true"
+    <a href="https://spotify-github-profile.vercel.app/api/view?uid=31hds44refljvemmswc35hr5px6i&amp;redirect=true"><img
+            src="https://spotify-github-profile.vercel.app/api/view?uid=31hds44refljvemmswc35hr5px6i&amp;cover_image=true&amp;theme=default&amp;bar_color=53b14f&amp;bar_color_cover=true"
             alt="spotify-github-profile" /><br />
 </p>
 
