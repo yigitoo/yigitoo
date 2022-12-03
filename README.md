@@ -41,6 +41,18 @@ You can find and get touch with me via Linkedin and Instagram!
 [![Instagram Badge](https://img.shields.io/badge/yigitgumus-follow%20on%20instagram-blue?style=for-the-badge&logo=instagram)](https://instagram.com/yigitgumus09/)
 [![Twitter Badge](https://img.shields.io/badge/yigitgumus-follow%20on%20twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/yigitgumus09/)
 
+<p>
+<h3 align="center">Contact with me: </h3>
+<p align="center">
+    <a href="https://twitter.com/yigitgumus09" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+            alt="usdogu" height="30" width="40" /></a>
+    <a href="https://instagram.com/yigitgumus09" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+            alt="usdogu" height="30" width="40" /></a>
+
+</p>
+</p>
 
 <!---
 Rawns665/Rawns665 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
