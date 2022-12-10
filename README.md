@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yigitgumus09
+- 👋 Hi, I’m @yeetag
 - ✨ My name is "Yiğit, Yiğit GÜMÜŞ".
 - 👀 I’m interested in Programming.
 - 🌱 I’m currently learning LowLevel!
