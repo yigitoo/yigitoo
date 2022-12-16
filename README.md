@@ -8,8 +8,8 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=tomz0f)
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=yigitoo&show_icons=true&theme=gruvbox"></img>><img
-        src="https://github-readme-streak-stats.herokuapp.com?user=yigitoo&theme=merko&date_format=M%20j%5B%2C%20Y%5D"></img>
+    <img src="https://github-readme-stats.vercel.app/api?username=yigitoo&show_icons=true&theme=gruvbox"></img><img
+        src="https://github-readme-streak-stats.herokuapp.com?user=yigitoo&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D"></img>
 </p>
 
 
