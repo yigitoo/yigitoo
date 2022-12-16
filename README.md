@@ -8,13 +8,13 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=tomz0f)
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=yigitoo&show_icons=true&theme=merko"></img>><img
+    <img src="https://github-readme-stats.vercel.app/api?username=yigitoo&show_icons=true&theme=gruvbox"></img>><img
         src="https://github-readme-streak-stats.herokuapp.com?user=yigitoo&theme=merko&date_format=M%20j%5B%2C%20Y%5D"></img>
 </p>
 
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yigitoo&layout=compact&theme=merko&hide=c,html,emacs%20lisp,nix"></img>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yigitoo&layout=compact&theme=gruvbox&hide=c,html,emacs%20lisp,nix"></img>
 </p>
 
 
