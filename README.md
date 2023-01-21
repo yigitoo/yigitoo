@@ -14,7 +14,7 @@
 
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yigitoo&layout=compact&theme=gruvbox&hide=c,html,emacs%20lisp,nix"></img>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yigitoo&layout=compact&theme=gruvbox&hide=html,emacs%,lisp,nix"></img>
 </p>
 
 
