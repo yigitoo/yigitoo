@@ -3,7 +3,7 @@
 - 👀 I’m interested in Programming.
 - 🌱 I’m currently learning LowLevel!
 - 💞️ I’m looking to collaborate on Google.
-- 📫 How to reach me: on [Instagram](https://instagram.com/yigitgumus09) or [Twitter](https://twitter.com/yigitgumus09)  | Yiğit GÜMÜŞ: rawns0909@gmail.com>
+- 📫 How to reach me: on [Instagram](https://instagram.com/yigiittgumus) or [Twitter](https://twitter.com/yigitgumus09)  | Yiğit GÜMÜŞ: rawns0909@gmail.com>
 
 <span style="font-size: 40px;">![Profile Views](https://komarev.com/ghpvc/?username=yigitoo)<span>
 
@@ -44,7 +44,7 @@ You can find and get touch with me via Twitter or Instagram!
     <a href="https://twitter.com/yigitgumus09" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
             alt="usdogu" height="30" width="40" /></a>
-    <a href="https://instagram.com/yigitgumus09" target="blank"><img align="center"
+    <a href="https://instagram.com/yigiittgumus" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
             alt="usdogu" height="30" width="40" /></a>
 
