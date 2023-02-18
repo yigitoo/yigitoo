@@ -16,7 +16,8 @@
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yigitoo&layout=compact&theme=gruvbox&hide=html,emacs%,lisp,nix"></img>
 </p>
-### 🛠 &nbsp;Languages and Tools :
+
+# 🛠 &nbsp;Languages and Tools :
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
