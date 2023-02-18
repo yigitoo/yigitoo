@@ -23,7 +23,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="80" height="80"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="80" height="80"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="80" height="80"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="80" height="80"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="80" height="80"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="80" height="80"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="80" height="80"/>&nbsp;
@@ -57,7 +56,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original-wordmark.svg" title="Debian usage" **alt="Debian usage" width="80" height="80"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-original.svg" title="Fedora usage" **alt="Fedora usage" width="80" height="80"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg" title="Apache Kafka" **alt="Apache Kafka" width="80" height="80"/>&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/71/RabbitMQ_logo.svg" title="RabbitMQ" **alt="RabbitMQ" width="80" height="80"/>&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/71/RabbitMQ_logo.svg" title="RabbitMQ" **alt="RabbitMQ" width="160" height="80"/>&nbsp;
 <img src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/3.2.0/zeromq.svg" title="ZeroMQ" **alt="ZeroMQ" width="80" height="80"/>&nbsp;
 </p>
 
