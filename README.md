@@ -4,8 +4,14 @@
 - 🌱 I’m currently learning LowLevel!
 - 💞️ I’m looking to collaborate on Google.
 - 📫 How to reach me: on [Instagram](https://instagram.com/yigiittgumus) or [Twitter](https://twitter.com/yigitgumus09)  | Yiğit GÜMÜŞ: rawns0909@gmail.com>
-
-<div style="position: absolute; left: 50%;">
+<style>
+  .profview {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+  }
+</style>
+<div class="profview" style="position: absolute; left: 50%;">
     &nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=yigitoo&color=red" title="Profile Views" alt="Profile Views"/>&nbsp;
 </div>
 
