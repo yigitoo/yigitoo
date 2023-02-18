@@ -4,9 +4,9 @@
 - 🌱 I’m currently learning LowLevel!
 - 💞️ I’m looking to collaborate on Google.
 - 📫 How to reach me: on [Instagram](https://instagram.com/yigiittgumus) or [Twitter](https://twitter.com/yigitgumus09)  | Yiğit GÜMÜŞ: rawns0909@gmail.com>
-<p style="text-align: center;">
-   [Profile Views](https://komarev.com/ghpvc/?username=yigitoo)
-</p>
+
+<span style="text-align:center;">[Profile Views](https://komarev.com/ghpvc/?username=yigitoo)</span>
+
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=yigitoo&show_icons=true&theme=gruvbox"></img><img
         src="https://github-readme-streak-stats.herokuapp.com?user=yigitoo&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D"></img>
