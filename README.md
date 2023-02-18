@@ -56,8 +56,8 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/RabbitMQ_logo.svg" title="RabbitMQ" **alt="RabbitMQ" width="250" height="80"/>&nbsp;
 <img src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/3.2.0/zeromq.svg" title="ZeroMQ" **alt="ZeroMQ" width="80" height="80"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Shell" **alt="Shell" width="80" height="80"/>&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg" title="ArchLinux" **alt="ArchLinux" width="80" height="80"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg" title="Apache Kafka" **alt="Apache Kafka" width="80" height="80"/>&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg" title="ArchLinux" **alt="ArchLinux" width="80" height="80"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original-wordmark.svg" title="Debian usage" **alt="Debian usage" width="80" height="80"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-original.svg" title="Fedora usage" **alt="Fedora usage" width="80" height="80"/>&nbsp;
 </p>
