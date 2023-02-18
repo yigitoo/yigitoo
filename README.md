@@ -6,7 +6,7 @@
 - 📫 How to reach me: on [Instagram](https://instagram.com/yigiittgumus) or [Twitter](https://twitter.com/yigitgumus09)  | Yiğit GÜMÜŞ: rawns0909@gmail.com>
 
 <div style="position: absolute; left: 50%;">
-    <img src="https://komarev.com/ghpvc/?username=yigitoo&color=red" title="Profile Views" alt="Profile Views" width="40" height="10"/>&nbsp;
+    <img src="https://komarev.com/ghpvc/?username=yigitoo&color=red" title="Profile Views" alt="Profile Views" width="40" height="40"/>&nbsp;
 </div>
 
 <p align="center">
