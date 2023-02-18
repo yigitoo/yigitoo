@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on Google.
 - 📫 How to reach me: on [Instagram](https://instagram.com/yigiittgumus) or [Twitter](https://twitter.com/yigitgumus09)  | Yiğit GÜMÜŞ: rawns0909@gmail.com>
 
-<div style="display: flex; justify-content:center; align-items:center;">
+<div style="position: absolute; left: 50%;">
     <img src="https://komarev.com/ghpvc/?username=yigitoo&color=red" title="Profile Views" alt="Profile Views" width="160" height="40"/>&nbsp;
 </div>
 
