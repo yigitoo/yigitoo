@@ -63,6 +63,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" title=".net" **alt=".net" width="80" height="80"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title=".net" **alt=".net" width="80" height="80"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title=".net" **alt=".net" width="80" height="80"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" title="Redis" **alt="Redis" width="250" height="80"/>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/RabbitMQ_logo.svg" title="RabbitMQ" **alt="RabbitMQ" width="250" height="80"/>&nbsp;
 <img src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/3.2.0/zeromq.svg" title="ZeroMQ" **alt="ZeroMQ" width="80" height="80"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Shell" **alt="Shell" width="80" height="80"/>&nbsp;
