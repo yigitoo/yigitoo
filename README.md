@@ -13,10 +13,20 @@
         src="https://github-readme-streak-stats.herokuapp.com?user=yigitoo&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D"></img>
 </p>
 
+---
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yigitoo&layout=compact&theme=gruvbox&hide=html,emacs%,lisp,nix"></img>
 </p>
+
+<p align="center">
+    <a href="https://spotify-github-profile.vercel.app/api/view?uid=1htv4ev9rz8ll0n9lpb29jqoo&amp;redirect=true"><img
+            src="https://spotify-github-profile.vercel.app/api/view.svg?uid=1htv4ev9rz8ll0n9lpb29jqoo&cover_image=true&theme=default&show_offline=true&background_color=000000&bar_color_cover=true"
+            alt="spotify-github-profile" /><br />
+        
+</p>
+  
+---
 
 # 🛠 &nbsp;Languages and Tools :
 
@@ -78,12 +88,7 @@
 ---
 
 
-<p align="center">
-    <a href="https://spotify-github-profile.vercel.app/api/view?uid=1htv4ev9rz8ll0n9lpb29jqoo&amp;redirect=true"><img
-            src="https://spotify-github-profile.vercel.app/api/view.svg?uid=1htv4ev9rz8ll0n9lpb29jqoo&cover_image=true&theme=default&show_offline=true&background_color=000000&bar_color_cover=true"
-            alt="spotify-github-profile" /><br />
-        
-</p>
+
 
 
 ## Graduation
