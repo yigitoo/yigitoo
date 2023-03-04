@@ -13,11 +13,11 @@
         src="https://github-readme-streak-stats.herokuapp.com?user=yigitoo&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D"></img>
 </p>
 
----
-
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yigitoo&layout=compact&theme=gruvbox&hide=html,emacs%,lisp,nix"></img>
 </p>
+
+---
 
 <p align="center">
     <a href="https://spotify-github-profile.vercel.app/api/view?uid=1htv4ev9rz8ll0n9lpb29jqoo&amp;redirect=true"><img
