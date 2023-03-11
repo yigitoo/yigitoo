@@ -3,8 +3,7 @@
 - 👀 I’m interested in Programming.
 - 🌱 I’m currently learning LowLevel!
 - 💞️ I’m looking to collaborate on Google.
-- 📫 How to reach me: on
-<span>
+- 📫 How to reach me: <span><span>on</span>
             <a href="https://twitter.com/yigitgumus09" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
             alt="usdogu" height="30" width="40" /></a>
