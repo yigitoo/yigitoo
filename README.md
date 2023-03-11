@@ -8,9 +8,7 @@
             <a href="https://twitter.com/yigitgumus09" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
             alt="usdogu" height="30" width="40" /></a>
-            
-            or
-            
+            <span>or</span>
             <a href="https://instagram.com/yigiittgumus" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
             alt="usdogu" height="30" width="40" /></a>
