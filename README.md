@@ -50,9 +50,6 @@
 <a href="https://skyline.github.com/yigitoo/2022"><img src="./assets/2022.gif" alt="" width="auto" height="auto" /></a>
 -->
 
-<!--  2d history skills -->
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=yigitoo&skills=JavaScript,Jupyter-Notebook,PHP,Shell,Python,C,Java,HTML" width="auto"></img>
-
 # 📫 How to reach me: <span><span>on</span>             <a href="https://twitter.com/yigitgumus09" target="blank"><img align="center"             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="usdogu" height="30" width="40" /></a><span>or</span><a href="https://instagram.com/yigiittgumus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yigitoo" height="30" width="40" /></a>
 
 
