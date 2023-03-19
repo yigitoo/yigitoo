@@ -60,7 +60,7 @@
         
 </p>
 
-![](assets/Bottom_up.svg)
+![](assets/Bottom_down.svg)
 ----
 
 
@@ -81,10 +81,10 @@ You can find and get touch with me via Twitter or Instagram!
 <p align="center">
     <a href="https://twitter.com/yigitgumus09" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-            alt="usdogu" height="30" width="40" /></a>
+            alt="yigitoo" height="30" width="40" /></a>
     <a href="https://instagram.com/yigiittgumus" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-            alt="usdogu" height="30" width="40" /></a>
+            alt="yigitoo" height="30" width="40" /></a>
 
 </p>
 </p>
@@ -93,4 +93,4 @@ You can find and get touch with me via Twitter or Instagram!
 Rawns665/Rawns665 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![](assets/Bottom_up.svg)
+![](assets/Bottom_down.svg)
