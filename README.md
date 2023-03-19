@@ -60,10 +60,8 @@
         
 </p>
 
----
-
-
-
+![](assets/Bottom_up.svg)
+----
 
 
 ## Graduation
@@ -95,3 +93,4 @@ You can find and get touch with me via Twitter or Instagram!
 Rawns665/Rawns665 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![](assets/Bottom_up.svg)
