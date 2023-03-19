@@ -52,7 +52,7 @@
 
 # 📫 How to reach me: <span><span>on</span>             <a href="https://twitter.com/yigitgumus09" target="blank"><img align="center"             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="usdogu" height="30" width="40" /></a><span>or</span><a href="https://instagram.com/yigiittgumus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yigitoo" height="30" width="40" /></a>
 
-
+![](assets/Bottom_up2.svg)
 <p align="center">
     <a href="https://spotify-github-profile.vercel.app/api/view?uid=1htv4ev9rz8ll0n9lpb29jqoo&amp;redirect=true"><img
             src="https://spotify-github-profile.vercel.app/api/view.svg?uid=1htv4ev9rz8ll0n9lpb29jqoo&cover_image=true&theme=default&show_offline=true&background_color=000000&bar_color_cover=true"
