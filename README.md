@@ -73,6 +73,10 @@ Nazilli Fen Lisesi: Grad year'25
 Projects in my made.
 Like which projects i made to get right to attend Tübitak-2204A (researching and development projects) & Teknofest2022 :D
 
+## My professions:
+---
+* I have profession in Fullstack/Backend Development.
+* And create project with mostly Python/Rust/JavaScript-TypeScript/C-C++.
 ## Contact Me 📫
 
 You can find and get touch with me via Twitter or Instagram!
