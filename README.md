@@ -36,9 +36,9 @@
 
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yigitoo&show_icons=true&theme=radical)                 | ![yigitoo's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yigitoo&theme=radical&layout=compact) |
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yigitoo&show_icons=true&theme=radical)                     | ![yigitoo's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yigitoo&theme=radical&layout=compact) |
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yigitoo"></img>
+![Github Streaks of yigitoo](https://github-readme-streak-stats.herokuapp.com/?user=yigitoo&theme=radical")
 
 <!--   profile-green-animate -->
 ![](./profile-3d-contrib/profile-green-animate.svg)
@@ -75,7 +75,7 @@ Like which projects i made to get right to attend Tübitak-2204A (researching an
 
 ## My professions:
 ---
-* I have profession in Fullstack/Backend Development.
+* I have profession in Fullstack Dev and AI development.
 * And create project with mostly Python/Rust/JavaScript-TypeScript/C-C++.
 ## Contact Me 📫
 
@@ -83,10 +83,10 @@ You can find and get touch with me via Twitter or Instagram!
 <p>
 <h3 align="center">Contact with me: </h3>
 <p align="center">
-    <a href="https://twitter.com/yigitgumus09" target="blank"><img align="center"
+    <a href="https://twitter.com/yigitgumus_" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
             alt="yigitoo" height="30" width="40" /></a>
-    <a href="https://instagram.com/yigiittgumus" target="blank"><img align="center"
+    <a href="https://instagram.com/yigit_gums" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
             alt="yigitoo" height="30" width="40" /></a>
 
