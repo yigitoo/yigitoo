@@ -54,10 +54,7 @@
 
 ![](assets/Bottom_up2.svg)
 <p align="center">
-    <a href="https://spotify-github-profile.vercel.app/api/view?uid=1htv4ev9rz8ll0n9lpb29jqoo&amp;redirect=true"><img
-            src="https://spotify-github-profile.vercel.app/api/view.svg?uid=1htv4ev9rz8ll0n9lpb29jqoo&cover_image=true&theme=default&show_offline=true&background_color=000000&bar_color_cover=true"
-            alt="spotify-github-profile" /><br />
-        
+[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=1htv4ev9rz8ll0n9lpb29jqoo&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=1htv4ev9rz8ll0n9lpb29jqoo&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)]]
 </p>
 
 ![](assets/Bottom_down.svg)
@@ -75,8 +72,10 @@ Like which projects i made to get right to attend Tübitak-2204A (researching an
 
 ## My professions:
 ---
+
 * I have profession in Fullstack Dev and AI development.
 * And create project with mostly Python/Rust/JavaScript-TypeScript/C-C++.
+  
 ## Contact Me 📫
 
 You can find and get touch with me via Twitter or Instagram!
