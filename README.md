@@ -53,8 +53,11 @@
 # 📫 How to reach me: <span><span>on</span>             <a href="https://twitter.com/yigitgumus09" target="blank"><img align="center"             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="usdogu" height="30" width="40" /></a><span>or</span><a href="https://instagram.com/yigiittgumus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yigitoo" height="30" width="40" /></a>
 
 ![](assets/Bottom_up2.svg)
+
 <p align="center">
-![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=1htv4ev9rz8ll0n9lpb29jqoo&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=1htv4ev9rz8ll0n9lpb29jqoo&redirect=true)
+    <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=1htv4ev9rz8ll0n9lpb29jqoo&redirect=true"><img
+        src="https://spotify-github-profile.kittinanx.com/api/view?uid=1htv4ev9rz8ll0n9lpb29jqoo&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true"
+        alt="spotify-github-profile" />
 </p>
 
 ![](assets/Bottom_down.svg)
