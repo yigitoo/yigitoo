@@ -70,8 +70,8 @@ Nazilli Fen Lisesi: Grad year'25
 
 ## I'm currently working on 🔭
 
-Projects in my made.
-Like which projects i made to get right to attend Tübitak-2204A (researching and development projects) & Teknofest2022 :D
+* Projects developed by me.
+* And YKS Exam for University College Enterance. (I will take the exam from equal weight sections. I want to be an economist/mathematician)
 
 ## My professions:
 ---
