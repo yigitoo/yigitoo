@@ -50,14 +50,9 @@
 <a href="https://skyline.github.com/yigitoo/2022"><img src="./assets/2022.gif" alt="" width="auto" height="auto" /></a>
 -->
 
-# 📫 How to reach me:
-
-<a href="https://twitter.com/yigitgumus_" target="blank">
+# 📫 How to reach me: <a href="https://twitter.com/yigitgumus_" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="usdogu" height="30" width="40" />
-    <span style="color: #1DA1F2;">Twitter</span>
-</a>
-<span>or</span>
-<a href="https://instagram.com/yigit_gums" target="blank">
+    <span style="color: #1DA1F2;">Twitter</span> </a> <span>or</span> <a href="https://instagram.com/yigit_gums" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yigitoo" height="30" width="40" />
     <span style="color: #E1306C;">Instagram</span>
 
