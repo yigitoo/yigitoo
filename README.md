@@ -76,7 +76,8 @@ Like which projects i made to get right to attend Tübitak-2204A (researching an
 ## My professions:
 ---
 
-* I have profession in Fullstack Dev and AI development.
+* I have profession in Fullstack Dev.
+* And I am keen on with AI Developemnt and Economics.
 * And create project with mostly Python/Rust/JavaScript-TypeScript/C-C++.
   
 ## Contact Me 📫
