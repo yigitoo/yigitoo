@@ -52,13 +52,14 @@
 
 # 📫 How to reach me:
 
-<a href="https://twitter.com/yigitgumus09" target="blank">
+<a href="https://twitter.com/yigitgumus_" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="usdogu" height="30" width="40" />
+    <span style="color: #1DA1F2;">Twitter</span>
 </a>
 <span>or</span>
-<a href="https://instagram.com/yigiittgumus" target="blank">
+<a href="https://instagram.com/yigit_gums" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yigitoo" height="30" width="40" />
-</a>
+    <span style="color: #E1306C;">Instagram</span>
 
 ![](assets/Bottom_up2.svg)
 
