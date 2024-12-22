@@ -50,9 +50,17 @@
 <a href="https://skyline.github.com/yigitoo/2022"><img src="./assets/2022.gif" alt="" width="auto" height="auto" /></a>
 -->
 
-# 📫 How to reach me: <span><span>on</span>             <a href="https://twitter.com/yigitgumus09" target="blank"><img align="center"             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="usdogu" height="30" width="40" /></a><span>or</span><a href="https://instagram.com/yigiittgumus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yigitoo" height="30" width="40" /></a>
+# 📫 How to reach me:
 
-<img src="https://raw.githubusercontent.com/yigitoo/yigitoo/refs/heads/master/assets/Bottom_down.svg" style="transform-origin: center center;">
+<a href="https://twitter.com/yigitgumus09" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="usdogu" height="30" width="40" />
+</a>
+<span>or</span>
+<a href="https://instagram.com/yigiittgumus" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yigitoo" height="30" width="40" />
+</a>
+
+<img src="https://raw.githubusercontent.com/yigitoo/yigitoo/refs/heads/master/assets/Bottom_down.svg" style="rotate:180deg; transform-origin: center center;">
 
 <p align="center">
     <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=1htv4ev9rz8ll0n9lpb29jqoo&redirect=true"><img
