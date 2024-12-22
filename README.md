@@ -69,7 +69,7 @@
 </p>
 
 ![](assets/Bottom_down.svg)
-----
+
 
 
 ## Graduation
@@ -82,7 +82,6 @@ Nazilli Fen Lisesi: Grad year'25
 * And YKS Exam for University College Enterance. (I will take the exam from equal weight sections. I want to be an economist/mathematician)
 
 ## My professions:
----
 
 * I have profession in Fullstack Dev.
 * And I am keen on with AI Developemnt and Economics.
