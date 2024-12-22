@@ -60,7 +60,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yigitoo" height="30" width="40" />
 </a>
 
-<img src="https://raw.githubusercontent.com/yigitoo/yigitoo/refs/heads/master/assets/Bottom_down.svg" style="transform: scaleY(-1); transform-origin: center center;">
+<img src="https://raw.githubusercontent.com/yigitoo/yigitoo/refs/heads/master/assets/Bottom_down.svg" style="">
 
 <p align="center">
     <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=1htv4ev9rz8ll0n9lpb29jqoo&redirect=true"><img
