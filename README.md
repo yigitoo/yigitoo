@@ -6,14 +6,14 @@
     <a href="https://github.com/yigitoo/yigitoo/graphs/contributors"><img src="https://img.shields.io/github/contributors/yigitoo/yigitoo?color=blue"></a>
     <a href="https://github.com/yigitoo/yigitoo/stargazers"><img src="https://img.shields.io/github/stars/yigitoo/yigitoo.svg?logo=github"></a>
     <a href="https://github.com/yigitoo/yigitoo/network/members"><img src="https://img.shields.io/github/forks/yigitoo/yigitoo.svg?color=blue&logo=github"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=yigitoo.yigitoo" alt="visitors"/>   
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=yigitoo.yigitoo" alt="visitors"/>
 </p>
 
 <!--   my-header-img -->
 ![](./src/header_.png)
 <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
 
-<!--   my-ticker -->    
+<!--   my-ticker -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Yiğit+GÜMÜŞ;+Welcome+to+My+Profile!;Over+5+years+of+programming+experience;Always+learning+new+things+;Machine+learning+enthusiast+;BackEnd+Programmer;FrontEnd+Programer;Web+Developer;)](https://git.io/typing-svg)
 
 <!--   my-skils -->
@@ -46,7 +46,7 @@
 <!--   grid-snake -->
 ![](https://github.com/yigitoo/yigitoo/blob/output/github-contribution-grid-snake.svg)
 
-<!--   skyline 
+<!--   skyline
 <a href="https://skyline.github.com/yigitoo/2022"><img src="./assets/2022.gif" alt="" width="auto" height="auto" /></a>
 -->
 
@@ -60,7 +60,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yigitoo" height="30" width="40" />
 </a>
 
-<img src="https://raw.githubusercontent.com/yigitoo/yigitoo/refs/heads/master/assets/Bottom_down.svg" style="">
+![](assets/Bottom_up2.svg)
 
 <p align="center">
     <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=1htv4ev9rz8ll0n9lpb29jqoo&redirect=true"><img
@@ -87,7 +87,7 @@ Nazilli Fen Lisesi: Grad year'25
 * I have profession in Fullstack Dev.
 * And I am keen on with AI Developemnt and Economics.
 * And create project with mostly Python/Rust/JavaScript-TypeScript/C-C++.
-  
+
 ## Contact Me 📫
 
 You can find and get touch with me via Twitter or Instagram!
