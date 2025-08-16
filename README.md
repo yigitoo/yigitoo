@@ -32,7 +32,7 @@
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
-[![yigitoo's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=yigitoo&theme=github-compact)](https://github.com/yigitoo/github-readme-activity-graph)
+![yigitoo's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=yigitoo&theme=github-compact)
 
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
