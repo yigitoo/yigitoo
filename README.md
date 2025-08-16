@@ -69,7 +69,8 @@ Nazilli Fen Lisesi: Grad year'25
 ## I'm currently working on 🔭
 
 * Projects developed by me.
-* And YKS Exam for University College Enterance. (I will take the exam from equal weight sections. I want to be an economist/mathematician)
+* Finance at enthusiast level
+* And Deep Learning
 
 ## My professions:
 
