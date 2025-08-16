@@ -32,8 +32,6 @@
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
-![yigitoo's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=yigitoo&theme=github-compact)
-
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
 | ![Yigitoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=yigitoo&show_icons=true&theme=radical)                     | ![yigitoo's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yigitoo&theme=radical&layout=compact) |
