@@ -36,8 +36,6 @@
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
 | ![Yigitoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=yigitoo&show_icons=true&theme=radical)                     | ![yigitoo's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yigitoo&theme=radical&layout=compact) |
 
-![Github Streaks of yigitoo](https://github-readme-streak-stats.herokuapp.com/?user=yigitoo&theme=radical")
-
 <!--   profile-green-animate -->
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
