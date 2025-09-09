@@ -60,9 +60,10 @@
 
 
 
-## Graduation
+## Education
+* Nazilli Science High School: Grad year'25
+* Yildiz Technical Univerity: Economics (preparatory class)
 
-Nazilli Fen Lisesi: Grad year'25
 
 ## I'm currently working on 🔭
 
