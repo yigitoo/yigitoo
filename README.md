@@ -51,9 +51,9 @@
 ![](assets/Bottom_up2.svg)
 
 <p align="center">
-    <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=1htv4ev9rz8ll0n9lpb29jqoo&redirect=true"><img
-        src="https://spotify-github-profile.kittinanx.com/api/view?uid=1htv4ev9rz8ll0n9lpb29jqoo&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true"
-        alt="spotify-github-profile" />
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=1htv4ev9rz8ll0n9lpb29jqoo&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false">
+  </a>
 </p>
 
 ![](assets/Bottom_down.svg)
